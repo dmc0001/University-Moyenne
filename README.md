@@ -17,6 +17,12 @@
 # how to use
 
 # using in windows
- start try_something.exe
-# using in linux 
- gcc try_something.c
+```bash
+start  
+try_something.exe
+```
+# using in linux
+```bash
+gcc  
+try_something.c
+```
